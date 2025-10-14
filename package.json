@@ -70,7 +70,7 @@
     "@actions/core": "^1.11.1"
   },
   "devDependencies": {
-    "@github/local-action": "^3.2.1",
+    "@github/local-action": "^6.0.0",
     "@jest/globals": "^29.7.0",
     "@types/jest": "^29.5.14",
     "@types/node": "^24.7.0",
